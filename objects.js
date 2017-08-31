@@ -1,5 +1,6 @@
 var `playlist` = {
-  Royksopp: 'Only this Moment'
+  Royksopp: 'Only this Moment',
+  Robyn: 'Call Your Girlfriend'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
