@@ -1,4 +1,6 @@
-var `playlist` = new Object();
+var `playlist` = {
+  Royksopp: 'Only this Moment'
+}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist.artistName = songTitle;
